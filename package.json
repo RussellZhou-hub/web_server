@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/RussellZhou-hub/web_server/issues"
   },
-  "homepage": "https://github.com/RussellZhou-hub/web_server#readme"
+  "homepage": "https://github.com/RussellZhou-hub/web_server#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "mysql": "^2.18.1"
+  },
+  "keywords": []
 }
